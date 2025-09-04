@@ -12,7 +12,7 @@
         <section>
             <h1>Email com html</h1>
             <p>
-                <img src="mussum.jpg" alt="imagem do mussum em preto e branco" style="height: 400;width: 400;">
+               <img src="cid:mussum_image" alt="imagem do mussum em preto e branco" style="height: 400px;width: 400px;">
                 <a href="https://netshark.com.br" target="_blank">acesse o site para mais informações</a>
                 Mussum Ipsum, cacilds vidis litro abertis.  Eu nunca mais boto a boca num copo de cachaça, agora eu só uso canudis! Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Quem manda na minha terra sou euzis!
 
